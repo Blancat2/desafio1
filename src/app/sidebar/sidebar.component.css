@@ -1,6 +1,7 @@
 .sidebar{
 
-    background-color: brown;
+    background-color: #343434;
     width: var(--sidebar-width);
-    height: 100vh;
+    height: 95%;
+    position: fixed ;
 }
