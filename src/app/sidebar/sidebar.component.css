@@ -1,7 +1,11 @@
 .sidebar{
 
-    background-color: #343434;
+    background-color: #dfdb10;
     width: var(--sidebar-width);
-    height: 95%;
+    height: 100%;
     position: fixed ;
+    color: red;
+    font-size: xx-large;
+    
 }
+

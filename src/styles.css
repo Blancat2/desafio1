@@ -3,6 +3,6 @@
 * { margin: 0; }
 
 :root{
-    --tollbar-height: 60px;
+    --toolbar-height: 80px;
     --sidebar-width: 230px;
 }

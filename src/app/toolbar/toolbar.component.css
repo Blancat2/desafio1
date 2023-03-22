@@ -1,7 +1,7 @@
 .toolbar{
-    background-color: #272727;
-    height:var(--heigth-toolbar );
-    color: orange;
+    background-color: #fbff00;
+    height:var(--toolbar-height );
+    color: rgb(255, 0, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: x-large;
     display: flex;

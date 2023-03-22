@@ -1,11 +1,11 @@
-.home{
+p{
     
-    background-color: grey;
+    background-color: rgb(205, 207, 43);
     margin-left: var(--sidebar-width);
-    height: calc(100vh - var(--heigth-toolbar));
+    height: 889px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: xx-large;
-    color: orange;
+    color: rgb(250, 8, 0);
     display: flex;
     align-items: center;
     justify-content: center;
