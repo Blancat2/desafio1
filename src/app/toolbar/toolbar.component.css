@@ -1,4 +1,6 @@
 .toolbar{
+    background-color: aqua;
     height: var(--tollbar-height)
+    
     
 }

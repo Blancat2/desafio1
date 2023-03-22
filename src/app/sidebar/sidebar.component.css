@@ -1,6 +1,6 @@
 .sidebar{
-    margin-top: 60px;
+
     background-color: brown;
-    width: 230px;
+    width: var(--sidebar-width);
     height: 100vh;
 }
